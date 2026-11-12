@@ -1,0 +1,361 @@
+product_id,product_name,category,brand,list_price,supplier_id
+PROD0001,Premium Watch 1,Home & Kitchen,FitWay,,SUP116
+PROD0002,Premium Bottle 2,Home & Kitchen,DailyChoice,29539.55,SUP106
+PROD0003,Basic Mixer 3,Grocery,UrbanLeaf,30592.76,SUP103
+PROD0004,Classic Phone 4,Books,Nova,31072.81,SUP130
+PROD0005,Smart Bag 5,Grocery,UrbanLeaf,1953.63,SUP125
+PROD0006,Premium Watch 6,Books,FitWay,1467.06,SUP121
+PROD0007,Classic Mixer 7,Beauty,HomeNest,44781.2,SUP117
+PROD0008,Ultra Phone 8,Books,Nova,34805.24,SUP120
+PROD0009,Smart Bottle 9,Sports,HomeNest,5753.64,SUP133
+PROD0010,Pro Shoes 10,Books,FitWay,3823.45,SUP107
+PROD0011,Basic Shoes 11,Home & Kitchen,UrbanLeaf,8175.83,SUP119
+PROD0012,Classic Bag 12,Clothing,HomeNest,40365.06,SUP109
+PROD0013,Ultra T-Shirt 13,Clothing,UrbanLeaf,,SUP104
+PROD0014,Pro Book 14,Home & Kitchen,Nova,31968.43,SUP127
+PROD0015,Basic T-Shirt 15,Grocery,TechSphere,32075.1,SUP128
+PROD0016,Basic Mixer 16,Grocery,FitWay,42957.66,SUP134
+PROD0017,Ultra T-Shirt 17,Clothing,FitWay,16738.92,SUP100
+PROD0018,Premium Shoes 18,Beauty,Nova,16178.6,SUP107
+PROD0019,Pro Phone 19,Grocery,UrbanLeaf,21328.22,SUP122
+PROD0020,Premium Phone 20,Books,HomeNest,49484.82,SUP132
+PROD0021,Premium Shoes 21,Sports,UrbanLeaf,27789.01,SUP137
+PROD0022,Classic T-Shirt 22,Sports,UrbanLeaf,27389.91,SUP131
+PROD0023,Ultra Headphones 23,Home & Kitchen,TechSphere,40498.54,SUP136
+PROD0024,Smart Headphones 24,Grocery,FitWay,8984.6,SUP132
+PROD0025,Ultra Mixer 25,Electronics,HomeNest,20328.92,SUP112
+PROD0026,Smart Phone 26,Grocery,DailyChoice,32103.63,SUP123
+PROD0027,Classic Bottle 27,Grocery,Nova,49402.02,SUP125
+PROD0028,Premium Bottle 28,Clothing,TechSphere,7807.19,SUP114
+PROD0029,Premium Bag 29,Beauty,HomeNest,22655.59,SUP135
+PROD0030,Smart Lamp 30,Grocery,FitWay,,SUP130
+PROD0031,Premium Headphones 31,Beauty,HomeNest,36303.73,SUP120
+PROD0032,Smart Headphones 32,Home & Kitchen,DailyChoice,30727.25,SUP119
+PROD0033,Premium Bottle 33,Electronics,DailyChoice,12928.96,SUP131
+PROD0034,Smart Book 34,Beauty,FitWay,9441.0,SUP108
+PROD0035,Smart T-Shirt 35,Clothing,TechSphere,18772.57,SUP108
+PROD0036,Classic Shoes 36,Books,UrbanLeaf,12829.14,SUP116
+PROD0037,Pro Shoes 37,Grocery,HomeNest,40442.76,SUP105
+PROD0038,Smart Watch 38,HOME & KITCHEN ,TechSphere,36062.82,SUP118
+PROD0039,Classic Mixer 39,CLOTHING ,Nova,41776.22,SUP117
+PROD0040,Basic Bag 40,HOME & KITCHEN ,UrbanLeaf,8636.18,SUP120
+PROD0041,Classic Mixer 41,Home & Kitchen,DailyChoice,15566.78,SUP118
+PROD0042,Pro Bag 42,Sports,TechSphere,38450.49,SUP135
+PROD0043,Premium Lamp 43,Clothing,DailyChoice,8260.23,SUP110
+PROD0044,Smart Bottle 44,Grocery,UrbanLeaf,7364.84,SUP116
+PROD0045,Premium Shoes 45,Sports,DailyChoice,19214.02,SUP129
+PROD0046,Ultra Watch 46,Electronics,FitWay,9402.39,SUP111
+PROD0047,Pro Bottle 47,Home & Kitchen,TechSphere,4036.32,SUP126
+PROD0048,Basic Watch 48,Sports,HomeNest,15706.76,SUP138
+PROD0049,Premium Bottle 49,Beauty,DailyChoice,43792.29,SUP115
+PROD0050,Premium Book 50,Beauty,HomeNest,2920.05,SUP109
+PROD0051,Smart Phone 51,Electronics,DailyChoice,28348.21,SUP107
+PROD0052,Basic Watch 52,Home & Kitchen,Nova,28193.46,SUP100
+PROD0053,Ultra Mixer 53,Sports,Nova,26588.47,SUP111
+PROD0054,Classic Mixer 54,Books,Nova,25324.39,SUP133
+PROD0055,Classic Bag 55,Beauty,UrbanLeaf,959.12,SUP110
+PROD0056,Smart Shoes 56,Beauty,FitWay,2466.86,SUP138
+PROD0057,Pro Lamp 57,Clothing,DailyChoice,25608.74,SUP138
+PROD0058,Ultra Bag 58,Books,HomeNest,48418.6,SUP127
+PROD0059,Basic Shoes 59,Sports,TechSphere,20457.4,SUP139
+PROD0060,Ultra T-Shirt 60,Books,DailyChoice,23668.58,SUP116
+PROD0061,Ultra Shoes 61,Sports,HomeNest,49104.93,SUP138
+PROD0062,Basic Mixer 62,Grocery,HomeNest,38977.54,SUP121
+PROD0063,Classic Book 63,Grocery,Nova,38528.25,SUP103
+PROD0064,Smart Shoes 64,Books,UrbanLeaf,25285.8,SUP133
+PROD0065,Ultra T-Shirt 65,Home & Kitchen,FitWay,44905.74,SUP138
+PROD0066,Premium Shoes 66,Electronics,FitWay,,SUP135
+PROD0067,Smart Mixer 67,Electronics,TechSphere,32868.85,SUP116
+PROD0068,Classic Watch 68,Books,FitWay,39398.81,SUP104
+PROD0069,Premium Phone 69,Grocery,FitWay,20387.99,SUP123
+PROD0070,Classic Bag 70,Sports,Nova,47668.14,SUP134
+PROD0071,Classic Bag 71,Books,DailyChoice,49401.55,SUP133
+PROD0072,Pro Lamp 72,Electronics,FitWay,29397.76,SUP124
+PROD0073,Ultra Lamp 73,Beauty,UrbanLeaf,11179.79,SUP131
+PROD0074,Classic Headphones 74,Sports,UrbanLeaf,38767.39,SUP101
+PROD0075,Smart Shoes 75,Clothing,DailyChoice,16174.04,SUP124
+PROD0076,Pro Shoes 76,Books,UrbanLeaf,28897.04,SUP104
+PROD0077,Classic Lamp 77,HOME & KITCHEN ,Nova,4425.59,SUP129
+PROD0078,Smart Phone 78,Clothing,Nova,,SUP101
+PROD0079,Premium Watch 79,Sports,UrbanLeaf,47958.4,SUP123
+PROD0080,Basic Lamp 80,Beauty,HomeNest,4800.75,SUP137
+PROD0081,Classic Bottle 81,Beauty,TechSphere,36606.52,SUP104
+PROD0082,Pro Lamp 82,Beauty,FitWay,43055.72,SUP117
+PROD0083,Pro Phone 83,Sports,UrbanLeaf,5563.47,SUP101
+PROD0084,Premium Watch 84,Home & Kitchen,UrbanLeaf,12414.39,SUP128
+PROD0085,Premium Bottle 85,Books,TechSphere,,SUP137
+PROD0086,Pro Watch 86,GROCERY ,FitWay,41854.18,SUP100
+PROD0087,Premium Bag 87,Beauty,HomeNest,24721.71,SUP121
+PROD0088,Premium Mixer 88,Clothing,FitWay,6933.61,SUP131
+PROD0089,Ultra Shoes 89,Clothing,Nova,,SUP101
+PROD0090,Basic T-Shirt 90,Books,TechSphere,23421.62,SUP119
+PROD0091,Smart Mixer 91,Clothing,TechSphere,2058.33,SUP105
+PROD0092,Smart Book 92,Books,Nova,,SUP136
+PROD0093,Classic Mixer 93,Sports,UrbanLeaf,1362.59,SUP120
+PROD0094,Classic Phone 94,Beauty,UrbanLeaf,39065.26,SUP120
+PROD0095,Ultra Mixer 95,Electronics,TechSphere,36718.9,SUP139
+PROD0096,Premium Mixer 96,Beauty,Nova,43285.32,SUP131
+PROD0097,Smart Bottle 97,SPORTS ,UrbanLeaf,7969.02,SUP112
+PROD0098,Basic Mixer 98,Clothing,DailyChoice,30168.6,SUP125
+PROD0099,Premium Headphones 99,Books,Nova,39073.06,SUP111
+PROD0100,Classic T-Shirt 100,Clothing,FitWay,25835.38,SUP120
+PROD0101,Ultra Headphones 101,Home & Kitchen,HomeNest,6626.27,SUP132
+PROD0102,Premium Watch 102,Beauty,Nova,5035.49,SUP137
+PROD0103,Smart Phone 103,Books,TechSphere,30333.89,SUP138
+PROD0104,Classic Mixer 104,CLOTHING ,HomeNest,24930.12,SUP119
+PROD0105,Smart T-Shirt 105,Home & Kitchen,UrbanLeaf,46484.98,SUP135
+PROD0106,Classic Watch 106,Books,UrbanLeaf,41708.49,SUP135
+PROD0107,Ultra Lamp 107,Home & Kitchen,FitWay,36214.81,SUP121
+PROD0108,Ultra Headphones 108,Sports,Nova,49121.58,SUP101
+PROD0109,Classic Lamp 109,HOME & KITCHEN ,DailyChoice,34760.77,SUP104
+PROD0110,Classic Headphones 110,Electronics,UrbanLeaf,4707.99,SUP126
+PROD0111,Basic Lamp 111,Beauty,TechSphere,3969.47,SUP133
+PROD0112,Premium Shoes 112,Home & Kitchen,Nova,40811.69,SUP136
+PROD0113,Premium Lamp 113,Clothing,DailyChoice,18098.47,SUP109
+PROD0114,Smart Bottle 114,Grocery,UrbanLeaf,46221.69,SUP135
+PROD0115,Ultra Lamp 115,Books,FitWay,5999.67,SUP133
+PROD0116,Pro Lamp 116,Clothing,UrbanLeaf,10018.67,SUP119
+PROD0117,Pro T-Shirt 117,Beauty,Nova,38680.83,SUP114
+PROD0118,Smart Book 118,Books,TechSphere,42388.82,SUP118
+PROD0119,Ultra Bag 119,ELECTRONICS ,HomeNest,43372.96,SUP127
+PROD0120,Basic Headphones 120,Electronics,TechSphere,5046.15,SUP132
+PROD0121,Pro Mixer 121,Beauty,DailyChoice,19151.32,SUP106
+PROD0122,Premium Shoes 122,Grocery,HomeNest,32354.33,SUP113
+PROD0123,Smart Shoes 123,Grocery,FitWay,45947.82,SUP104
+PROD0124,Pro Phone 124,Beauty,TechSphere,12026.09,SUP137
+PROD0125,Pro Bag 125,Sports,Nova,30056.71,SUP116
+PROD0126,Classic T-Shirt 126,Beauty,TechSphere,7260.76,SUP110
+PROD0127,Ultra Headphones 127,Grocery,HomeNest,37388.95,SUP108
+PROD0128,Premium Book 128,Beauty,TechSphere,6462.6,SUP102
+PROD0129,Premium Phone 129,Grocery,FitWay,49999.13,SUP118
+PROD0130,Premium Bottle 130,Home & Kitchen,DailyChoice,4703.21,SUP130
+PROD0131,Classic T-Shirt 131,Grocery,Nova,34298.01,SUP112
+PROD0132,Smart Lamp 132,Books,Nova,38874.01,SUP116
+PROD0133,Ultra Mixer 133,Books,UrbanLeaf,12972.95,SUP125
+PROD0134,Classic Mixer 134,Electronics,HomeNest,12815.21,SUP114
+PROD0135,Smart Bottle 135,Books,Nova,29847.33,SUP129
+PROD0136,Classic Book 136,Clothing,UrbanLeaf,31560.31,SUP112
+PROD0137,Basic Bottle 137,Grocery,TechSphere,36053.97,SUP117
+PROD0138,Classic Mixer 138,Clothing,TechSphere,29056.25,SUP139
+PROD0139,Premium Lamp 139,Books,DailyChoice,8805.07,SUP133
+PROD0140,Ultra Watch 140,Sports,HomeNest,46214.68,SUP122
+PROD0141,Basic Book 141,Home & Kitchen,DailyChoice,8413.08,SUP115
+PROD0142,Basic Shoes 142,Grocery,FitWay,28304.97,SUP139
+PROD0143,Ultra T-Shirt 143,Home & Kitchen,TechSphere,46008.06,SUP118
+PROD0144,Ultra Lamp 144,Electronics,DailyChoice,45657.1,SUP113
+PROD0145,Basic Mixer 145,Electronics,DailyChoice,8477.7,SUP123
+PROD0146,Smart Mixer 146,Books,TechSphere,12005.51,SUP116
+PROD0147,Pro Watch 147,Home & Kitchen,DailyChoice,30131.95,SUP135
+PROD0148,Classic Book 148,Books,UrbanLeaf,16923.84,SUP108
+PROD0149,Basic Book 149,Electronics,UrbanLeaf,36570.8,SUP102
+PROD0150,Ultra Lamp 150,Electronics,FitWay,26167.5,SUP117
+PROD0151,Classic Phone 151,Grocery,FitWay,13377.16,SUP137
+PROD0152,Smart Lamp 152,Clothing,UrbanLeaf,20610.2,SUP102
+PROD0153,Smart T-Shirt 153,Sports,FitWay,34586.13,SUP132
+PROD0154,Pro Book 154,Home & Kitchen,HomeNest,39278.34,SUP100
+PROD0155,Pro Shoes 155,Beauty,HomeNest,18540.46,SUP122
+PROD0156,Classic Shoes 156,Electronics,DailyChoice,5337.88,SUP118
+PROD0157,Pro Shoes 157,Clothing,Nova,17727.88,SUP106
+PROD0158,Basic Mixer 158,Books,TechSphere,31560.12,SUP129
+PROD0159,Classic Watch 159,Beauty,UrbanLeaf,38015.38,SUP107
+PROD0160,Classic T-Shirt 160,Beauty,HomeNest,43994.88,SUP117
+PROD0161,Premium Phone 161,Grocery,Nova,48100.86,SUP122
+PROD0162,Smart Bag 162,Home & Kitchen,Nova,26514.8,SUP120
+PROD0163,Smart Headphones 163,Books,FitWay,44022.23,SUP101
+PROD0164,Pro Bag 164,Books,Nova,13176.96,SUP117
+PROD0165,Ultra Book 165,Beauty,TechSphere,28026.18,SUP126
+PROD0166,Classic Phone 166,Home & Kitchen,DailyChoice,27014.85,SUP121
+PROD0167,Classic Bottle 167,Home & Kitchen,DailyChoice,38457.61,SUP129
+PROD0168,Basic T-Shirt 168,Grocery,UrbanLeaf,38678.6,SUP131
+PROD0169,Classic Book 169,Home & Kitchen,DailyChoice,14337.9,SUP107
+PROD0170,Smart Phone 170,Sports,TechSphere,44304.37,SUP132
+PROD0171,Pro Shoes 171,Electronics,UrbanLeaf,44585.39,SUP135
+PROD0172,Smart Lamp 172,Home & Kitchen,HomeNest,47417.2,SUP133
+PROD0173,Smart Bottle 173,Grocery,TechSphere,22935.91,SUP134
+PROD0174,Basic Watch 174,Beauty,TechSphere,49371.96,SUP108
+PROD0175,Smart Mixer 175,Books,TechSphere,39266.86,SUP126
+PROD0176,Smart Shoes 176,Clothing,Nova,32693.7,SUP118
+PROD0177,Classic Phone 177,Books,UrbanLeaf,21669.1,SUP139
+PROD0178,Classic Shoes 178,Grocery,UrbanLeaf,42137.16,SUP133
+PROD0179,Smart Phone 179,Grocery,DailyChoice,38230.23,SUP106
+PROD0180,Pro T-Shirt 180,Beauty,TechSphere,29318.94,SUP137
+PROD0181,Smart Phone 181,Sports,HomeNest,49857.58,SUP127
+PROD0182,Pro Lamp 182,Grocery,TechSphere,12547.37,SUP121
+PROD0183,Premium Mixer 183,Books,DailyChoice,32123.17,SUP117
+PROD0184,Basic Watch 184,Grocery,FitWay,16123.57,SUP119
+PROD0185,Basic Mixer 185,Electronics,FitWay,22945.84,SUP130
+PROD0186,Ultra Mixer 186,Beauty,UrbanLeaf,17012.77,SUP130
+PROD0187,Ultra Book 187,Books,UrbanLeaf,16793.64,SUP122
+PROD0188,Classic Bottle 188,Books,DailyChoice,18903.0,SUP139
+PROD0189,Smart Book 189,Clothing,DailyChoice,2927.37,SUP109
+PROD0190,Ultra Bag 190,Sports,UrbanLeaf,2088.11,SUP117
+PROD0191,Premium Watch 191,Clothing,TechSphere,36273.35,SUP123
+PROD0192,Pro Book 192,Electronics,UrbanLeaf,15613.65,SUP106
+PROD0193,Basic T-Shirt 193,Electronics,FitWay,1157.63,SUP119
+PROD0194,Smart Shoes 194,Grocery,DailyChoice,4164.99,SUP133
+PROD0195,Basic Mixer 195,Clothing,DailyChoice,,SUP127
+PROD0196,Pro T-Shirt 196,Beauty,DailyChoice,2504.84,SUP128
+PROD0197,Classic Watch 197,Clothing,TechSphere,,SUP106
+PROD0198,Ultra T-Shirt 198,Grocery,UrbanLeaf,28460.78,SUP105
+PROD0199,Smart Bottle 199,Grocery,DailyChoice,19761.21,SUP117
+PROD0200,Classic Lamp 200,SPORTS ,TechSphere,26681.87,SUP112
+PROD0201,Basic Mixer 201,Books,UrbanLeaf,5728.84,SUP100
+PROD0202,Ultra Bottle 202,Electronics,DailyChoice,35121.8,SUP122
+PROD0203,Ultra T-Shirt 203,Grocery,TechSphere,48482.54,SUP130
+PROD0204,Classic T-Shirt 204,Home & Kitchen,Nova,6618.92,SUP129
+PROD0205,Premium Bag 205,Home & Kitchen,DailyChoice,7713.9,SUP104
+PROD0206,Smart Bottle 206,Clothing,UrbanLeaf,31469.93,SUP131
+PROD0207,Pro Watch 207,Grocery,UrbanLeaf,7680.46,SUP115
+PROD0208,Pro Headphones 208,Clothing,HomeNest,6389.16,SUP106
+PROD0209,Ultra Phone 209,Grocery,UrbanLeaf,33556.81,SUP118
+PROD0210,Smart Bag 210,Books,FitWay,30970.63,SUP108
+PROD0211,Classic Headphones 211,Books,FitWay,10964.29,SUP126
+PROD0212,Classic Bottle 212,Electronics,HomeNest,41176.45,SUP129
+PROD0213,Ultra Mixer 213,Books,UrbanLeaf,5351.12,SUP129
+PROD0214,Smart Watch 214,Grocery,TechSphere,16694.82,SUP104
+PROD0215,Ultra Phone 215,Home & Kitchen,UrbanLeaf,36969.23,SUP113
+PROD0216,Pro Lamp 216,Beauty,DailyChoice,30733.28,SUP119
+PROD0217,Premium Bottle 217,Electronics,FitWay,30043.14,SUP139
+PROD0218,Smart Phone 218,Beauty,Nova,34344.77,SUP121
+PROD0219,Classic Headphones 219,Sports,HomeNest,32358.14,SUP126
+PROD0220,Basic Lamp 220,Home & Kitchen,FitWay,43725.98,SUP113
+PROD0221,Ultra Mixer 221,BOOKS ,HomeNest,28481.06,SUP111
+PROD0222,Smart Bottle 222,Electronics,Nova,20123.5,SUP131
+PROD0223,Classic Bag 223,Sports,Nova,38327.62,SUP133
+PROD0224,Ultra Shoes 224,Sports,FitWay,13035.32,SUP102
+PROD0225,Basic Headphones 225,Clothing,HomeNest,38003.4,SUP121
+PROD0226,Premium Phone 226,Home & Kitchen,HomeNest,14070.48,SUP131
+PROD0227,Ultra Shoes 227,Clothing,UrbanLeaf,24070.48,SUP106
+PROD0228,Premium T-Shirt 228,Sports,UrbanLeaf,36985.49,SUP125
+PROD0229,Pro Bottle 229,Sports,TechSphere,31419.82,SUP118
+PROD0230,Ultra Bag 230,Beauty,HomeNest,4374.97,SUP120
+PROD0231,Classic Bag 231,Clothing,TechSphere,22382.77,SUP123
+PROD0232,Classic Bag 232,Clothing,DailyChoice,40611.4,SUP134
+PROD0233,Smart Watch 233,Books,UrbanLeaf,49838.57,SUP103
+PROD0234,Classic Book 234,Beauty,TechSphere,23392.69,SUP108
+PROD0235,Pro Phone 235,BEAUTY ,UrbanLeaf,4386.78,SUP113
+PROD0236,Smart Shoes 236,Home & Kitchen,Nova,18372.03,SUP132
+PROD0237,Smart Shoes 237,Grocery,TechSphere,24546.65,SUP123
+PROD0238,Classic Mixer 238,Clothing,Nova,3763.16,SUP107
+PROD0239,Classic Book 239,Books,TechSphere,43226.39,SUP100
+PROD0240,Premium Watch 240,Books,HomeNest,26985.21,SUP139
+PROD0241,Ultra Mixer 241,Clothing,TechSphere,,SUP105
+PROD0242,Ultra Lamp 242,Electronics,FitWay,19918.9,SUP101
+PROD0243,Smart Lamp 243,Clothing,UrbanLeaf,1511.62,SUP116
+PROD0244,Basic Bag 244,Clothing,TechSphere,25991.41,SUP122
+PROD0245,Basic Book 245,Books,DailyChoice,23830.72,SUP110
+PROD0246,Pro Shoes 246,Beauty,UrbanLeaf,,SUP106
+PROD0247,Basic Headphones 247,Beauty,HomeNest,32967.66,SUP103
+PROD0248,Ultra Watch 248,Beauty,FitWay,20609.92,SUP116
+PROD0249,Smart Bottle 249,Grocery,TechSphere,28630.6,SUP138
+PROD0250,Smart Shoes 250,Grocery,UrbanLeaf,44263.5,SUP105
+PROD0251,Classic Book 251,Electronics,FitWay,18257.31,SUP122
+PROD0252,Basic Mixer 252,Books,Nova,19955.8,SUP107
+PROD0253,Pro Bag 253,Home & Kitchen,UrbanLeaf,43308.47,SUP126
+PROD0254,Premium Bag 254,Books,TechSphere,,SUP102
+PROD0255,Smart Bag 255,Grocery,UrbanLeaf,22023.65,SUP108
+PROD0256,Classic Lamp 256,Beauty,HomeNest,,SUP100
+PROD0257,Basic Bottle 257,Sports,HomeNest,29633.75,SUP125
+PROD0258,Pro Book 258,Beauty,DailyChoice,46700.84,SUP128
+PROD0259,Premium Lamp 259,Electronics,HomeNest,23585.55,SUP106
+PROD0260,Pro Mixer 260,Electronics,HomeNest,24002.9,SUP118
+PROD0261,Classic Bag 261,Home & Kitchen,FitWay,2241.17,SUP111
+PROD0262,Basic T-Shirt 262,Books,UrbanLeaf,9944.63,SUP101
+PROD0263,Classic Headphones 263,Home & Kitchen,TechSphere,27045.51,SUP101
+PROD0264,Premium T-Shirt 264,Beauty,FitWay,9436.01,SUP137
+PROD0265,Pro Bottle 265,Beauty,UrbanLeaf,22733.27,SUP125
+PROD0266,Premium Mixer 266,Home & Kitchen,UrbanLeaf,14236.81,SUP126
+PROD0267,Ultra Lamp 267,Beauty,UrbanLeaf,,SUP111
+PROD0268,Pro Lamp 268,Sports,DailyChoice,23807.44,SUP110
+PROD0269,Smart Headphones 269,Books,TechSphere,32348.52,SUP131
+PROD0270,Classic Bag 270,Books,UrbanLeaf,16977.2,SUP117
+PROD0271,Smart Shoes 271,Books,FitWay,38848.47,SUP104
+PROD0272,Smart T-Shirt 272,Beauty,DailyChoice,7387.24,SUP119
+PROD0273,Ultra Shoes 273,Sports,Nova,4654.55,SUP120
+PROD0274,Pro Watch 274,Clothing,DailyChoice,46748.53,SUP122
+PROD0275,Pro Lamp 275,Clothing,FitWay,46090.58,SUP121
+PROD0276,Premium Lamp 276,Grocery,DailyChoice,20385.96,SUP134
+PROD0277,Classic Book 277,Sports,Nova,21054.02,SUP109
+PROD0278,Smart Book 278,Electronics,Nova,42566.53,SUP123
+PROD0279,Premium Mixer 279,HOME & KITCHEN ,TechSphere,26572.53,SUP135
+PROD0280,Classic Bottle 280,Grocery,DailyChoice,,SUP139
+PROD0281,Basic Watch 281,Electronics,TechSphere,5831.3,SUP138
+PROD0282,Smart Book 282,Beauty,FitWay,6642.55,SUP129
+PROD0283,Ultra Mixer 283,Books,UrbanLeaf,39059.96,SUP104
+PROD0284,Ultra T-Shirt 284,Grocery,TechSphere,30134.23,SUP139
+PROD0285,Classic Bag 285,Home & Kitchen,DailyChoice,15057.63,SUP101
+PROD0286,Ultra Lamp 286,Grocery,TechSphere,8186.63,SUP122
+PROD0287,Classic Lamp 287,Books,FitWay,6259.95,SUP117
+PROD0288,Premium Phone 288,Home & Kitchen,HomeNest,37094.98,SUP127
+PROD0289,Pro Headphones 289,Books,UrbanLeaf,44304.43,SUP131
+PROD0290,Premium Bag 290,Books,DailyChoice,,SUP129
+PROD0291,Pro Watch 291,Clothing,DailyChoice,38658.01,SUP109
+PROD0292,Basic Bag 292,Electronics,FitWay,14227.39,SUP130
+PROD0293,Pro Lamp 293,Books,TechSphere,29324.21,SUP130
+PROD0294,Basic Shoes 294,ELECTRONICS ,TechSphere,,SUP100
+PROD0295,Pro Headphones 295,Books,UrbanLeaf,4475.03,SUP125
+PROD0296,Premium Bag 296,Home & Kitchen,HomeNest,24419.09,SUP105
+PROD0297,Ultra Book 297,Sports,UrbanLeaf,42354.51,SUP122
+PROD0298,Ultra T-Shirt 298,Sports,UrbanLeaf,2683.0,SUP109
+PROD0299,Smart Phone 299,Electronics,Nova,23907.07,SUP114
+PROD0300,Ultra Bag 300,Electronics,TechSphere,43675.7,SUP110
+PROD0301,Ultra Lamp 301,Sports,FitWay,39524.38,SUP134
+PROD0302,Pro Watch 302,Beauty,FitWay,24722.65,SUP136
+PROD0303,Premium Mixer 303,Electronics,DailyChoice,8649.27,SUP131
+PROD0304,Classic Shoes 304,Grocery,HomeNest,42441.31,SUP128
+PROD0305,Ultra Headphones 305,Clothing,DailyChoice,7740.57,SUP114
+PROD0306,Premium Book 306,Grocery,FitWay,13912.63,SUP105
+PROD0307,Ultra Headphones 307,Electronics,FitWay,6300.46,SUP122
+PROD0308,Smart Mixer 308,Clothing,HomeNest,,SUP117
+PROD0309,Smart T-Shirt 309,Beauty,Nova,31496.61,SUP111
+PROD0310,Basic Headphones 310,Beauty,TechSphere,41373.03,SUP109
+PROD0311,Pro Book 311,Sports,DailyChoice,23120.21,SUP106
+PROD0312,Classic Headphones 312,Clothing,FitWay,48538.91,SUP133
+PROD0313,Ultra Bag 313,Clothing,Nova,29832.86,SUP112
+PROD0314,Classic Headphones 314,Clothing,Nova,30259.67,SUP136
+PROD0315,Premium Book 315,Beauty,HomeNest,,SUP126
+PROD0316,Pro T-Shirt 316,Grocery,DailyChoice,9585.98,SUP106
+PROD0317,Pro Shoes 317,Beauty,FitWay,28873.22,SUP102
+PROD0318,Premium Headphones 318,Grocery,DailyChoice,36071.6,SUP116
+PROD0319,Classic T-Shirt 319,Clothing,Nova,10314.07,SUP103
+PROD0320,Basic Phone 320,Clothing,DailyChoice,24251.97,SUP138
+PROD0321,Ultra Lamp 321,Electronics,Nova,17873.74,SUP136
+PROD0322,Pro Book 322,Clothing,DailyChoice,21993.75,SUP126
+PROD0323,Classic T-Shirt 323,Home & Kitchen,DailyChoice,11183.56,SUP111
+PROD0324,Classic Bottle 324,Home & Kitchen,HomeNest,7121.21,SUP134
+PROD0325,Ultra Watch 325,Sports,HomeNest,16092.32,SUP125
+PROD0326,Basic Bag 326,Beauty,TechSphere,43458.81,SUP114
+PROD0327,Ultra Watch 327,Sports,HomeNest,40280.57,SUP135
+PROD0328,Ultra Phone 328,Electronics,FitWay,5171.64,SUP108
+PROD0329,Classic Book 329,Grocery,UrbanLeaf,4480.73,SUP122
+PROD0330,Ultra Phone 330,Clothing,UrbanLeaf,24697.76,SUP127
+PROD0331,Smart Lamp 331,Electronics,DailyChoice,13940.65,SUP136
+PROD0332,Ultra Phone 332,Home & Kitchen,DailyChoice,41188.77,SUP105
+PROD0333,Smart Lamp 333,Sports,HomeNest,24359.93,SUP111
+PROD0334,Ultra Watch 334,Clothing,UrbanLeaf,42649.97,SUP133
+PROD0335,Ultra Book 335,Clothing,DailyChoice,5498.23,SUP119
+PROD0336,Classic T-Shirt 336,Books,DailyChoice,48506.82,SUP130
+PROD0337,Basic Mixer 337,Books,UrbanLeaf,38378.12,SUP130
+PROD0338,Smart Bag 338,Books,HomeNest,36620.37,SUP112
+PROD0339,Basic Mixer 339,Clothing,TechSphere,47016.73,SUP113
+PROD0340,Smart Lamp 340,Beauty,DailyChoice,23567.58,SUP119
+PROD0341,Ultra Shoes 341,Sports,FitWay,7528.71,SUP101
+PROD0342,Premium Headphones 342,BEAUTY ,TechSphere,24894.84,SUP131
+PROD0343,Classic Headphones 343,Clothing,DailyChoice,40779.48,SUP104
+PROD0344,Smart T-Shirt 344,Books,HomeNest,42991.05,SUP137
+PROD0345,Smart T-Shirt 345,Grocery,TechSphere,24477.92,SUP131
+PROD0346,Classic Book 346,Clothing,DailyChoice,36641.61,SUP114
+PROD0347,Premium Bottle 347,Sports,TechSphere,12422.19,SUP102
+PROD0348,Smart Bottle 348,Grocery,TechSphere,11603.53,SUP131
+PROD0349,Ultra Book 349,Beauty,TechSphere,29353.94,SUP117
+PROD0350,Smart Book 350,Electronics,UrbanLeaf,21144.81,SUP107
+PROD0203,Ultra T-Shirt 203,Grocery,TechSphere,48482.54,SUP130
+PROD0191,Premium Watch 191,Clothing,TechSphere,36273.35,SUP123
+PROD0333,Smart Lamp 333,Sports,HomeNest,24359.93,SUP111
+PROD0296,Premium Bag 296,Home & Kitchen,HomeNest,24419.09,SUP105
+PROD0181,Smart Phone 181,Sports,HomeNest,49857.58,SUP127
+PROD0035,Smart T-Shirt 35,Clothing,TechSphere,18772.57,SUP108
+PROD0284,Ultra T-Shirt 284,Grocery,TechSphere,30134.23,SUP139
+PROD0217,Premium Bottle 217,Electronics,FitWay,30043.14,SUP139
+PROD0045,Premium Shoes 45,Sports,DailyChoice,19214.02,SUP129
+PROD0224,Ultra Shoes 224,Sports,FitWay,13035.32,SUP102
